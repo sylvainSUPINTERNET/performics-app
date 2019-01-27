@@ -1,3 +1,6 @@
+## Required
+Run before **Performics API** : <a href="https://github.com/sylvainSUPINTERNET/Performics">Performics API</a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
